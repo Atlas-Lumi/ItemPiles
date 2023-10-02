@@ -17,9 +17,9 @@ Craft and Harvest.<br>
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/CoalPile004.png"> Coal * 4 `<------>` Coal Pile 4
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/CattailPile005.png"> Cattail stalk 5 `<------>` Cattail pile 5
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/RwoodPile010.png"> Reclaimed wood 10 `<------>` Reclaimed wood pile 10
-- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/ScrapPile010.png"> Reclaimed wood 10 `<------>` Scrap metal pile 10
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/ScrapPile010.png"> Scrap metal 10 `<------>` Scrap metal pile 10
 - <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/StonePile010.png"> Stone 10 `<------>` Stone pile 10
-- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/CharcoalPile010.png"> Stone 10 `<------>` Charcoal pile 10
+- <img src="https://github.com/stmSantana/ItemPiles/blob/main/Images/CharcoalPile010.png"> Charcoal 10 `<------>` Charcoal pile 10
 
 
 ## Stack
